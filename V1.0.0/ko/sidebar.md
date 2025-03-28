@@ -40,6 +40,9 @@
 - 보안
   - [중간자 공격](/V1.0.0/docs/security/MitM_ko.md)
   - [인증 및 보안채널 생성](/V1.0.0/docs/security/authentication_ko.md)
+- 시퀀스
+  - [Simple](/V1.0.0/docs/sequence/simple/images/md/simple_ko.md)
+  - [Detailed](/V1.0.0/docs/sequence/detailed/images/md/detailed_ko.md)
 - 기타
   - [README](/V1.0.0/README_ko.md)
   - [ROADMAP](/V1.0.0/ROADMAP.md) 
