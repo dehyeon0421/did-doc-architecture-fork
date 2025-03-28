@@ -40,6 +40,9 @@
 - Security
     - [MitM](/V1.0.0/docs/security/MitM.md)
     - [Authentication and Secure Channel Creation](/V1.0.0/docs/security/authentication.md)
+- Sequence
+  - [Simple](/V1.0.0/docs/sequence/simple/images/md/simple.md)
+  - [Detailed](/V1.0.0/docs/sequence/detailed/images/md/detailed.md)
 - ETC
   - [README](/V1.0.0/README.md)
   - [ROADMAP](/V1.0.0/ROADMAP.md) 
