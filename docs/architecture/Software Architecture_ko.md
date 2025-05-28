@@ -28,8 +28,10 @@ Software Architecture
 ---
 
 <!-- TOC tocDepth:2..4 chapterDepth:2..6 -->
+- [Software Architecture](#software-architecture)
+  - [목차](#목차)
   - [1. 개요](#1-개요)
-    - [1.1. C4 model](#11-c4-model)
+    - [1.1. C5 model](#11-c5-model)
     - [1.2. 참조문서](#12-참조문서)
   - [2. Digital ID 플랫폼](#2-digital-id-플랫폼)
     - [2.1. Open DID](#21-open-did)
@@ -75,7 +77,7 @@ Software Architecture
 
 본 문서는 OpenDID의 software architecture를 C4 model을 이용하여 설명한다.
 
-### 1.1. C4 model
+### 1.1. C5 model
 
 C4 model은 소프트웨어 시스템의 아키텍처를 시각화하기 위한 다이어그램 작성 방법론이다.
 이름에서 알 수 있듯이, C4 모델은 네 가지 주요 다이어그램 유형인 컨텍스트(Context), 컨테이너(Container),
